@@ -4,7 +4,7 @@
 ├──────────────┬────────────────────────────────────────────────┤
 │  handle      │  xNikkO                                        │
 │  studying    │  Computer Science                              │
-│  building    │  Hackademy — a full-stack CTF platform         │
+│  building    │  Hackademy, a full-stack CTF platform          │
 │  stack       │  Java · Spring Boot · React · TS · Python      │
 │  side quest  │  security tooling, SIEM, home labs             │
 │  portfolio   │  xnikko.github.io/portfolio                    │
@@ -23,7 +23,7 @@
 
 ---
 
-I'm a Computer Science student who mostly writes software — web apps, automation, small tools — and likes the problems that sit close to the system: how things break, how you'd notice, how you'd stop it. Most of what I build starts as "I want to understand this properly", then turns into a working project.
+I'm a Computer Science student who mostly writes software (web apps, automation, small tools) and likes the problems that sit close to the system: how things break, how you'd notice, how you'd stop it. Most of what I build starts as "I want to understand this properly", then turns into a working project.
 
 ---
 
@@ -36,12 +36,12 @@ I'm a Computer Science student who mostly writes software — web apps, automati
 ### 🎯 Hackademy
 **Full-stack CTF learning platform**
 
-Original scenarios that simulate real IT incidents — scenario engine, flag database, virtual terminals in the browser, user management and progress tracking.
+Original scenarios that simulate real IT incidents: scenario engine, flag database, virtual terminals in the browser, user management and progress tracking.
 
 `React` `TailwindCSS` `Java` `Spring Boot` `PostgreSQL`
 
 [**Live demo →**](https://hackademy-front.onrender.com/)
-<sub>Free Render hosting — cold start takes 1–3 min.</sub>
+<sub>Free Render hosting, so a cold start takes 1 to 3 min.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ Serves a convincing login page, logs what gets thrown at it, and pushes real-tim
 ### 🎮 [SlimeSurvivor](https://github.com/xNikkO/SlimeSurvivor)
 **Survivor-like game**
 
-A wave-based survivor game built in Godot — enemy spawning, upgrades and scaling difficulty. Written for fun, and to learn a game engine's way of structuring state.
+A wave-based survivor game built in Godot, with enemy spawning, upgrades and scaling difficulty. Written for fun, and to learn a game engine's way of structuring state.
 
 `Godot` `GDScript`
 
@@ -112,4 +112,4 @@ A wave-based survivor game built in Godot — enemy spawning, upgrades and scali
 </tr>
 </table>
 
-<sub>🧪 Also running an Active Directory home lab wired into Splunk — attack simulation and detection rules, [diagram here](https://xnikko.github.io/portfolio/schematsieci.png). 🎓 Coursework lives on my university account: [@NikkodemM](https://github.com/NikkodemM).</sub>
+<sub>🧪 Also running an Active Directory home lab wired into Splunk, with attack simulation and detection rules, [diagram here](https://xnikko.github.io/portfolio/schematsieci.png). 🎓 Coursework lives on my university account: [@NikkodemM](https://github.com/NikkodemM).</sub>
